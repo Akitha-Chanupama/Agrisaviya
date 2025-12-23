@@ -6,6 +6,7 @@ import { RootStackParamList } from '../types';
 import { Ionicons } from '@expo/vector-icons';
 import { colors } from '../theme';
 
+//Imports
 // Import actual screens
 import SplashScreen from '../screens/SplashScreen';
 import OnboardingScreen from '../screens/OnboardingScreen';
