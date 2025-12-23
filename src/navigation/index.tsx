@@ -7,7 +7,6 @@ import { Ionicons } from '@expo/vector-icons';
 import { colors } from '../theme';
 
 // Import actual screens
-import SplashScreen from '../screens/SplashScreen';
 import OnboardingScreen from '../screens/OnboardingScreen';
 import LoginScreen from '../screens/LoginScreen';
 import RegisterScreen from '../screens/RegisterScreen';
